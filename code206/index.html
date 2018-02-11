@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<title>http 206 分段传输</title>
+	<head>
+        <script type="text/javascript">
+
+            function onLoad() {
+                var sec = parseInt(document.location.search.substr(1));
+                
+                if (!isNaN(sec))
+                    mainPlayer.currentTime = sec;
+            }
+        
+        </script>
+    </head>
+</head>
+<body>
+	<h3>Partial Content Demonstration</h3>
+        <hr />
+        <video id="mainPlayer" width="640" height="360" 
+            autoplay="autoplay" controls="controls" onloadedmetadata="onLoad()">
+            <source src="test.mp4" />
+        </video>
+</body>
+</html>
