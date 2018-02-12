@@ -1,0 +1,49 @@
+/**
+ * process env
+ */
+
+for(let k in process.env){
+	console.log(k)
+}
+/*
+ALLUSERSPROFILE
+APPDATA
+CLASSPATH
+CommonProgramFiles
+CommonProgramFiles(x86)
+CommonProgramW6432
+COMPUTERNAME
+ComSpec
+FP_NO_HOST_CHECK
+HOMEDRIVE
+HOMEPATH
+JAVA_HOME
+LOCALAPPDATA
+LOGONSERVER
+NUMBER_OF_PROCESSORS
+OS
+Path
+PATHEXT
+PROCESSOR_ARCHITECTURE
+PROCESSOR_IDENTIFIER
+PROCESSOR_LEVEL
+PROCESSOR_REVISION
+ProgramData
+ProgramFiles
+ProgramFiles(x86)
+ProgramW6432
+PSModulePath
+PUBLIC
+SESSIONNAME
+SystemDrive
+SystemRoot
+TEMP
+TMP
+USERDNSDOMAIN
+USERDOMAIN
+USERNAME
+USERPROFILE
+windir
+windows_tracing_flags
+windows_tracing_logfile
+ */
