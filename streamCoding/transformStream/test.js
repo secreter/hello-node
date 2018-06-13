@@ -1,0 +1,6 @@
+const ReplaceStream = require('./replaceStream')
+const rs = new ReplaceStream('world', 'node')
+rs.on('data', chunk => console.log(chunk.toString()))
+rs.write('hello w')
+rs.write('orld!')
+rs.end()
