@@ -1,0 +1,16 @@
+/*
+pipe到可读可写流，实现管道链式调用
+ echo 'hello world' | node replace.js world node
+ */
+const concatFiles = require('./concatFiles')
+concatFiles(process.argv[2], process.argv.slice(3), () => {
+  console.log('success!')
+})
+/*
+pipe到可读可写流，实现管道链式调用
+ echo 'hello world' | node replace.js world node
+ */
+const concatFiles = require('./concatFiles')
+concatFiles(process.argv[2], process.argv.slice(3), () => {
+  console.log('success!')
+})
