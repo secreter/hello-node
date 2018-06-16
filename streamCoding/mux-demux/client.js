@@ -11,7 +11,7 @@ function multiplexChannels (sources,destination) {
     sources[i]
       .on('readable',()=>{
         let chunk
-        while (chunk=this.read()){
+        while (chunk=sources[i].read()){
           const outBuff=new Buffer(1+4+chunk.length)            //信道号+长度值+数据
           outBuff.writeUInt8(i,0)                               //偏移0的地方写入信道号
           outBuff.writeUInt32BE(chunk.length,1)                 //32位的大端无符号int BE suffix stands for BigEndian
