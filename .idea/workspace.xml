@@ -4,11 +4,7 @@
     <bookmark url="file://$PROJECT_DIR$/streamCoding/mux-demux/server.js" line="13" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4b392a9f-d37c-4188-89ab-c624eb944e35" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/designPattern/proxy.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="4b392a9f-d37c-4188-89ab-c624eb944e35" name="Default" comment="" />
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
@@ -72,20 +68,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="proxy.js" pinned="false" current-in-tab="false">
+      <file leaf-file-name="proxy.js" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/designPattern/proxy.js">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="339">
               <caret line="30" column="12" selection-start-line="30" selection-start-column="12" selection-end-line="30" selection-end-column="12" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name=".gitignore" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/.gitignore">
-          <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret column="6" selection-start-column="6" selection-end-column="6" />
             </state>
           </provider>
         </entry>
@@ -259,12 +246,12 @@
       <updated>1528984818163</updated>
       <workItem from="1528984819808" duration="17021000" />
       <workItem from="1529156337005" duration="2494000" />
-      <workItem from="1529166708954" duration="306000" />
+      <workItem from="1529166708954" duration="520000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="19821000" />
+    <option name="totallyTimeSpent" value="20035000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1296" height="736" extended-state="0" />
@@ -506,17 +493,17 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="6" lean-forward="true" selection-start-column="6" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/designPattern/proxy.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="339">
           <caret line="30" column="12" selection-start-line="30" selection-start-column="12" selection-end-line="30" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/.gitignore">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="6" selection-start-column="6" selection-end-column="6" />
         </state>
       </provider>
     </entry>
