@@ -6,12 +6,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4b392a9f-d37c-4188-89ab-c624eb944e35" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/designPattern/status/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/designPattern/status/client.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/designPattern/status/server.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/designPattern/status/failsafeSocket.js" beforeDir="false" afterPath="$PROJECT_DIR$/designPattern/status/failsafeSocket.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/designPattern/status/offineState.js" beforeDir="false" afterPath="$PROJECT_DIR$/designPattern/status/offineState.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/designPattern/status/onlineState.js" beforeDir="false" afterPath="$PROJECT_DIR$/designPattern/status/onlineState.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -58,11 +53,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="failsafeSocket.js" pinned="false" current-in-tab="true">
+      <file leaf-file-name="failsafeSocket.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/designPattern/status/failsafeSocket.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="72">
-              <caret line="21" column="35" selection-start-line="21" selection-start-column="35" selection-end-line="21" selection-end-column="35" />
+            <state relative-caret-position="54">
+              <caret line="4" column="17" selection-start-line="4" selection-start-column="17" selection-end-line="4" selection-end-column="17" />
             </state>
           </provider>
         </entry>
@@ -79,11 +74,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="client.js" pinned="false" current-in-tab="false">
+      <file leaf-file-name="client.js" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/designPattern/status/client.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="38">
-              <caret line="2" lean-forward="true" selection-start-line="2" selection-end-line="2" />
+            <state relative-caret-position="76">
+              <caret line="4" column="2" lean-forward="true" selection-start-line="4" selection-start-column="2" selection-end-line="4" selection-end-column="2" />
             </state>
           </provider>
         </entry>
@@ -91,8 +86,8 @@
       <file leaf-file-name="server.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/designPattern/status/server.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="152">
-              <caret line="8" column="22" selection-start-line="8" selection-start-column="22" selection-end-line="8" selection-end-column="22" />
+            <state relative-caret-position="19">
+              <caret line="1" column="31" selection-start-line="1" selection-start-column="31" selection-end-line="1" selection-end-column="31" />
             </state>
           </provider>
         </entry>
@@ -147,11 +142,11 @@
         <option value="$PROJECT_DIR$/streamCoding/mux-demux/README.rd" />
         <option value="$PROJECT_DIR$/designPattern/proxy.js" />
         <option value="$PROJECT_DIR$/.gitignore" />
-        <option value="$PROJECT_DIR$/designPattern/status/failsafeSocket.js" />
         <option value="$PROJECT_DIR$/designPattern/status/offineState.js" />
         <option value="$PROJECT_DIR$/designPattern/status/onlineState.js" />
         <option value="$PROJECT_DIR$/designPattern/status/.gitignore" />
         <option value="$PROJECT_DIR$/designPattern/status/server.js" />
+        <option value="$PROJECT_DIR$/designPattern/status/failsafeSocket.js" />
         <option value="$PROJECT_DIR$/designPattern/status/client.js" />
       </list>
     </option>
@@ -192,7 +187,7 @@
       <path value="$PROJECT_DIR$/streamCoding/readableStream/package.json" />
     </packageJsonPaths>
   </component>
-  <component name="ProjectFrameBounds">
+  <component name="ProjectFrameBounds" extendedState="1">
     <option name="x" value="-12" />
     <option name="y" value="-12" />
     <option name="width" value="1944" />
@@ -286,29 +281,30 @@
       <workItem from="1528984819808" duration="17021000" />
       <workItem from="1529156337005" duration="2494000" />
       <workItem from="1529166708954" duration="520000" />
-      <workItem from="1530199691621" duration="4262000" />
+      <workItem from="1530199691621" duration="4820000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="24297000" />
+    <option name="totallyTimeSpent" value="24855000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1296" height="736" extended-state="0" />
+    <frame x="-8" y="-8" width="1296" height="736" extended-state="1" />
+    <editor active="true" />
     <layout>
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
-      <window_info anchor="bottom" id="Version Control" order="7" />
-      <window_info anchor="bottom" id="Run" order="2" />
-      <window_info anchor="right" id="Mongo Explorer" order="3" />
+      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="9" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32888147" />
+      <window_info anchor="right" id="Mongo Explorer" order="4" />
       <window_info anchor="right" id="Graph Database" order="3" />
-      <window_info anchor="bottom" id="Terminal" order="7" visible="true" weight="0.2888147" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.18739903" />
-      <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="8" visible="true" weight="0.3505843" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.18739903" />
+      <window_info anchor="bottom" id="Docker" order="10" show_stripe_button="false" />
       <window_info anchor="bottom" id="Graph Database Console" order="7" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39899832" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="right" id="Commander" order="0" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -323,6 +319,11 @@
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <option name="time" value="2" />
+    </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/streamCoding/parallelStream/checkUrls.js">
@@ -626,15 +627,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/designPattern/status/server.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="152">
-          <caret line="8" column="22" selection-start-line="8" selection-start-column="22" selection-end-line="8" selection-end-column="22" />
+        <state relative-caret-position="19">
+          <caret line="1" column="31" selection-start-line="1" selection-start-column="31" selection-end-line="1" selection-end-column="31" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/designPattern/status/client.js">
+    <entry file="file://$PROJECT_DIR$/designPattern/status/failsafeSocket.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="38">
-          <caret line="2" lean-forward="true" selection-start-line="2" selection-end-line="2" />
+        <state relative-caret-position="54">
+          <caret line="4" column="17" selection-start-line="4" selection-start-column="17" selection-end-line="4" selection-end-column="17" />
         </state>
       </provider>
     </entry>
@@ -648,10 +649,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/designPattern/status/failsafeSocket.js">
+    <entry file="file://$PROJECT_DIR$/designPattern/status/client.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="72">
-          <caret line="21" column="35" selection-start-line="21" selection-start-column="35" selection-end-line="21" selection-end-column="35" />
+        <state relative-caret-position="76">
+          <caret line="4" column="2" lean-forward="true" selection-start-line="4" selection-start-column="2" selection-end-line="4" selection-end-column="2" />
         </state>
       </provider>
     </entry>
